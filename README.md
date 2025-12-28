@@ -5,12 +5,12 @@ This project is a simple HTML email template built using Bootstrap or Bootstrap 
 ## Project Files
 
 1. index.html  
-   Contains the HTML for the email template. :contentReference[oaicite:0]{index=0}
+   Contains the HTML for the email template.
 
 ## How to View the Project
 
 1. Download or clone the repository.
-2. Open the index.html file in a browser to see the email template. :contentReference[oaicite:1]{index=1}
+2. Open the index.html file in a browser to see the email template.
 
 No build tools or additional setup are required.
 
